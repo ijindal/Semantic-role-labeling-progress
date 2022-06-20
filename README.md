@@ -49,6 +49,29 @@ Because of the complexity of the SRL task it is not always immediate to conclude
 - Model ensemble?
 
 
+### SRL Research
+
+#### Syntax based 
+
+- [LREC 2022] [Syntax-driven Approach for Semantic Role Labeling](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.772.pdf) 
+
+
+#### Syntax agnostic
+
+
+#### Multilingual
+
+
+### SRL datasets
+
+#### Gold
+- [CoNLL2009]
+- [CoNLL2005]
+- [CoNLL2012]
+
+#### Silver
+
+- [UP2.0] 
 
 ### SRL for downstream applications
 
@@ -60,5 +83,6 @@ Because of the complexity of the SRL task it is not always immediate to conclude
 #### Natural Language Inference
 
 - [NAACL SUKI 2022] [Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference](https://suki-workshop.github.io/assets/paper/3.pdf)
+- [Stanford CS224] [Using Semantic Role Labeling to Combat Adversarial SNLI](https://ccrma.stanford.edu/~zhangmf/CS224u/NLU_final_report.pdf)
 - [ACL REPL4NLP 2020] [Joint Training with Semantic Role Labeling for Better Generalization in Natural Language Inference](https://aclanthology.org/2020.repl4nlp-1.11.pdf)
 - [AAAI 2020] [SemBERT: Semantics-aware BERT for Language Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/6510)
