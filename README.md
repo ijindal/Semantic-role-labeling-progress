@@ -47,3 +47,18 @@ Because of the complexity of the SRL task it is not always immediate to conclude
     + BiLSTMS + Attentions
     + NO encoder
 - Model ensemble?
+
+
+
+### SRL for downstream applications
+
+#### Machine Translation
+
+- [LREC 2022] [Using Semantic Role Labeling to Improve Neural Machine Translation](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.329.pdf)
+
+
+#### Natural Language Inference
+
+- [NAACL SUKI 2022] [Is Semantic-aware BERT more Linguistically Aware? A Case Study on Natural Language Inference](https://suki-workshop.github.io/assets/paper/3.pdf)
+- [ACL REPL4NLP 2020] [Joint Training with Semantic Role Labeling for Better Generalization in Natural Language Inference](https://aclanthology.org/2020.repl4nlp-1.11.pdf)
+- [AAAI 2020] [SemBERT: Semantics-aware BERT for Language Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/6510)
