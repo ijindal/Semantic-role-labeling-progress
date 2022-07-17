@@ -86,3 +86,15 @@ Because of the complexity of the SRL task it is not always immediate to conclude
 - [Stanford CS224] [Using Semantic Role Labeling to Combat Adversarial SNLI](https://ccrma.stanford.edu/~zhangmf/CS224u/NLU_final_report.pdf)
 - [ACL REPL4NLP 2020] [Joint Training with Semantic Role Labeling for Better Generalization in Natural Language Inference](https://aclanthology.org/2020.repl4nlp-1.11.pdf)
 - [AAAI 2020] [SemBERT: Semantics-aware BERT for Language Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/6510)
+
+
+
+#### Question Answering
+- [NAACL SemEval 2022] [Hybrid Question Answering Using Semantic Roles](https://aclanthology.org/2022.semeval-1.178/)
+
+
+
+#### Content Moderation and verification
+- [ACL FEVER 2022] [A Semantics-Aware Approach to Automated Claim Verification](https://aclanthology.org/2022.fever-1.5/)
+- [ACL Constraint 2022] [Are you a hero or a villain? A semantic role labelling approach for detecting harmful memes.](https://aclanthology.org/2022.constraint-1.3/)
+
