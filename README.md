@@ -98,3 +98,7 @@ Because of the complexity of the SRL task it is not always immediate to conclude
 - [ACL FEVER 2022] [A Semantics-Aware Approach to Automated Claim Verification](https://aclanthology.org/2022.fever-1.5/)
 - [ACL Constraint 2022] [Are you a hero or a villain? A semantic role labelling approach for detecting harmful memes.](https://aclanthology.org/2022.constraint-1.3/)
 
+#### Other applications
+- [Proposition Acquisition with SRL] https://github.com/pruizf/pasrl
+
+
