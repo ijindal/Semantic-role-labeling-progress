@@ -88,10 +88,8 @@ Because of the complexity of the SRL task it is not always immediate to conclude
 - [AAAI 2020] [SemBERT: Semantics-aware BERT for Language Understanding](https://ojs.aaai.org/index.php/AAAI/article/view/6510)
 
 
-
 #### Question Answering
 - [NAACL SemEval 2022] [Hybrid Question Answering Using Semantic Roles](https://aclanthology.org/2022.semeval-1.178/)
-
 
 
 #### Content Moderation and verification
@@ -101,4 +99,7 @@ Because of the complexity of the SRL task it is not always immediate to conclude
 #### Other applications
 - [Proposition Acquisition with SRL] https://github.com/pruizf/pasrl
 
+
+#### Sentiment Inference
+- [KONVENS 2022] [Semantic Role Labeling for Sentiment Inference: A Case Study](https://aclanthology.org/2022.konvens-1.17.pdf)
 
