@@ -98,7 +98,7 @@ Because of the complexity of the SRL task it is not always immediate to conclude
 
 #### Other applications
 - [Proposition Acquisition with SRL] https://github.com/pruizf/pasrl
-
+- [Scientific Reports 2022] [Computing semantic similarity of texts based on deep graph learning with ability to use semantic role label information](https://www.nature.com/articles/s41598-022-19259-5)
 
 #### Sentiment Inference
 - [KONVENS 2022] [Semantic Role Labeling for Sentiment Inference: A Case Study](https://aclanthology.org/2022.konvens-1.17.pdf)
