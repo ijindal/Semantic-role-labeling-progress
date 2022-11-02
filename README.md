@@ -96,9 +96,16 @@ Because of the complexity of the SRL task it is not always immediate to conclude
 - [ACL FEVER 2022] [A Semantics-Aware Approach to Automated Claim Verification](https://aclanthology.org/2022.fever-1.5/)
 - [ACL Constraint 2022] [Are you a hero or a villain? A semantic role labelling approach for detecting harmful memes.](https://aclanthology.org/2022.constraint-1.3/)
 
+#### Populating ontologies
+- [Springer AI Law 2021] [Populating legal ontologies using semantic role labeling](https://link.springer.com/article/10.1007/s10506-020-09271-3)
+- [2018 ] [Applying semantic role labeling and spreading activation techniques for semantic information retrieval](https://vb.ktu.edu/primo-explore/fulldisplay?docid=ELABAPDB63246995&vid=KTU&lang=en_US)
+
+
 #### Other applications
 - [Proposition Acquisition with SRL] https://github.com/pruizf/pasrl
 - [Scientific Reports 2022] [Computing semantic similarity of texts based on deep graph learning with ability to use semantic role label information](https://www.nature.com/articles/s41598-022-19259-5)
+- [NAACL 2018] [SRL4ORL: Improving Opinion Role Labeling using Multi-task Learning with Semantic Role Labeling](https://arxiv.org/abs/1711.00768)
+- [ Springer AI] [Semantic role labeling for knowledge graph extraction from text](https://link.springer.com/article/10.1007/s13748-021-00241-7)
 
 #### Sentiment Inference
 - [KONVENS 2022] [Semantic Role Labeling for Sentiment Inference: A Case Study](https://aclanthology.org/2022.konvens-1.17.pdf)
